@@ -13,3 +13,7 @@ But there's more to explore on the Bitcoin Trading Cards Series 1 website! In ad
 For collectors seeking the ultimate rarity, the series includes 18 one-of-a-kind (1/1) cards. These exclusive gems showcase exceptional designs and limited availability, serving as the ultimate testament to a collector's dedication and passion for Bitcoin.
 
 Whether you're a seasoned Bitcoin enthusiast or simply fascinated by cryptocurrencies, the Bitcoin Trading Cards Series is a remarkable addition to your collection. Visit https://btc-tc.com/ to explore the world of Bitcoin trading cards, own a piece of Bitcoin history, and proudly display your love for the digital currency. Get ready to embark on an exhilarating journey into the captivating realm of Bitcoin trading cards!
+
+# Card Design
+Each card possesses an exclusive design and arrangement, incorporating pertinent details about Bitcoin, such as its emblem, market capitalization, historical information, and essential facts.
+
