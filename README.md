@@ -9,7 +9,7 @@ Discover the captivating world of Bitcoin Trading Cards with Series, available a
 
 With all 7,894 packs sold out, each pack is a treasure trove of excitement and anticipation. Unwrap the pack to unveil the highly sought-after Orange Pill cards, the crown jewels of the series. These exclusive cards commemorate significant moments and influential figures in the realm of Bitcoin.
 
-But there's more to explore on the Bitcoin Trading Cards Series 1 website! In addition to the Orange Pill cards, the collection also features 1,998 Pacific Bitcoin packs. These packs offer a unique twist, presenting beautifully crafted cards with stunning artwork and captivating facts about Bitcoin's history and development.
+But there's more to explore on the Bitcoin Trading Cards website! In addition to the Orange Pill cards, the collection also features 1,998 Pacific Bitcoin packs. These packs offer a unique twist, presenting beautifully crafted cards with stunning artwork and captivating facts about Bitcoin's history and development.
 
 For collectors seeking the ultimate rarity, the series includes 18 one-of-a-kind (1/1) cards. These exclusive gems showcase exceptional designs and limited availability, serving as the ultimate testament to a collector's dedication and passion for Bitcoin.
 
