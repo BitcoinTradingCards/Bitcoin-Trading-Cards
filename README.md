@@ -1,5 +1,6 @@
 # Bitcoin-Trading-Cards
 ![image](https://github.com/BitcoinTradingCards/Bitcoin-Trading-Cards/assets/133751253/a88ad565-0ab6-4d0a-a23f-1543b760ff23)
+
 # Introducing Series of Bitcoin Trading Cards
 
 Discover the captivating world of Bitcoin Trading Cards with Series, available at https://btc-tc.com/. Immerse yourself in the mesmerizing design of the poster, showcasing a diverse collection of iconic trading cards inspired by Bitcoin.
@@ -18,11 +19,11 @@ Whether you're a seasoned Bitcoin enthusiast or simply fascinated by cryptocurre
 Each card possesses an exclusive design and arrangement, incorporating pertinent details about Bitcoin, such as its emblem, market capitalization, historical information, and essential facts. Users can learn about Bitcoin in an interactive and engaging manner.
 
 # Card Dimensions
-The card dimensions adhere to the standard trading card size, measuring 2.5 inches by 3.5 inches. This widely accepted size ensures compatibility with existing trading card collections.![IMG_7425](https://github.com/BitcoinTradingCards/Bitcoin-Trading-Cards/assets/133751253/c87ff473-688c-4f39-9566-bf84686ab015)
+The card dimensions adhere to the standard trading card size, measuring 2.5 inches by 3.5 inches. This widely accepted size ensures compatibility with existing trading card collections.
+![IMG_7425](https://github.com/BitcoinTradingCards/Bitcoin-Trading-Cards/assets/133751253/c87ff473-688c-4f39-9566-bf84686ab015)
 ![IMG_7426](https://github.com/BitcoinTradingCards/Bitcoin-Trading-Cards/assets/133751253/a840b7a1-5bb1-49a6-b2e7-e085acde82f5)
 
 # Collectibles
-
 Bitcoin Trading Cards can be viewed as collectibles, allowing users to build a unique and valuable collection. Collectors can showcase their collection, trade cards with others, and potentially create a marketplace for rare and limited edition cards.
 
 # Our Community
