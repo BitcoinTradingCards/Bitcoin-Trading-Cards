@@ -17,3 +17,6 @@ Whether you're a seasoned Bitcoin enthusiast or simply fascinated by cryptocurre
 # Card Design
 Each card possesses an exclusive design and arrangement, incorporating pertinent details about Bitcoin, such as its emblem, market capitalization, historical information, and essential facts.
 
+# Card Dimensions
+The card dimensions adhere to the standard trading card size, measuring 2.5 inches by 3.5 inches. This widely accepted size ensures compatibility with existing trading card collections.![IMG_7425](https://github.com/BitcoinTradingCards/Bitcoin-Trading-Cards/assets/133751253/c87ff473-688c-4f39-9566-bf84686ab015)
+![IMG_7426](https://github.com/BitcoinTradingCards/Bitcoin-Trading-Cards/assets/133751253/a840b7a1-5bb1-49a6-b2e7-e085acde82f5)
