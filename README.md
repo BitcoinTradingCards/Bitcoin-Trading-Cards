@@ -1,7 +1,7 @@
 # Bitcoin-Trading-Cards
 ![image](https://github.com/BitcoinTradingCards/Bitcoin-Trading-Cards/assets/133751253/a88ad565-0ab6-4d0a-a23f-1543b760ff23)
 
-# Introducing Series of Bitcoin Trading Cards
+# Introducing Series 1 of Bitcoin Trading Cards
 
 Discover the captivating world of Bitcoin Trading Cards with Series, available at https://btc-tc.com/. Immerse yourself in the mesmerizing design of the poster, showcasing a diverse collection of iconic trading cards inspired by Bitcoin.
 
