@@ -15,7 +15,7 @@ For collectors seeking the ultimate rarity, the series includes 18 one-of-a-kind
 Whether you're a seasoned Bitcoin enthusiast or simply fascinated by cryptocurrencies, the Bitcoin Trading Cards Series is a remarkable addition to your collection. Visit https://btc-tc.com/ to explore the world of Bitcoin trading cards, own a piece of Bitcoin history, and proudly display your love for the digital currency. Get ready to embark on an exhilarating journey into the captivating realm of Bitcoin trading cards!
 
 # Card Design
-Each card possesses an exclusive design and arrangement, incorporating pertinent details about Bitcoin, such as its emblem, market capitalization, historical information, and essential facts.
+Each card possesses an exclusive design and arrangement, incorporating pertinent details about Bitcoin, such as its emblem, market capitalization, historical information, and essential facts. Users can learn about Bitcoin in an interactive and engaging manner.
 
 # Card Dimensions
 The card dimensions adhere to the standard trading card size, measuring 2.5 inches by 3.5 inches. This widely accepted size ensures compatibility with existing trading card collections.![IMG_7425](https://github.com/BitcoinTradingCards/Bitcoin-Trading-Cards/assets/133751253/c87ff473-688c-4f39-9566-bf84686ab015)
